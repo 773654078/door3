@@ -38,7 +38,8 @@
 
 ### 用于测试的`Demo`上演示了很多效果,同时动态的显示了当前效果要进行的代码设置方法,同时还包含一些小提示,建议您先下个`Demo`先看看.[Demo下载](http://www.brioal.cn/apks/SwipeMenuDemo.apk)
 
-###`xml`布局文件中的使用方法:
+### `xml`布局文件中的使用方法
+
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <com.brioal.swipemenu.view.SwipeMenu
